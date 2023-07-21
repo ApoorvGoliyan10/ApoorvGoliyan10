@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApoorvGoliyan10
 - 👀 I’m interested in Webdevelopment 
-- 🌱 I’m currently learning Spring framework 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVASCRIPT 
+- 💞️ I’m looking to  make some project  ...
 - 📫 How to reach me via chapoorv10@gmail.com
 
 <!---
